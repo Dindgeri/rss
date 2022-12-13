@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test</title>
+    <description>testing</description>
+    <copyright>Copyright © CCC 2022</copyright>
+    <ttl>60</ttl>
+    <lastBuildDate>Tue, 13 Dec 2022 12:27:40 GMT</lastBuildDate>
+    <item>
+      <title>Test Two</title>
+      <description>2</description>
+      <link>https://apple.com</link>
+      <guid isPermaLink="false">7f22dfb7635147ba91d8096537e45edc</guid>
+      <pubDate>Tue, 13 Dec 2022 12:27:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Test</title>
+      <description>Testing!!</description>
+      <guid isPermaLink="false">6b4f5ce843484c698dd7ba0eff5cb56e</guid>
+      <pubDate>Tue, 13 Dec 2022 12:19:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
