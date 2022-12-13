@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>W3Schools Home Page</title>
+  <link>https://www.w3schools.com</link>
+  <description>Free web building tutorials</description>
+  <item>
+    <title>TESTE #1</title>
+    <link>https://www.youtube.com</link>
+    <description>Teste um teste um teste um teste #1</description>
+  </item>
+  <item>
+    <title>TESTE #2</title>
+    <link>https://www.twitter.com</link>
+    <description>Teste dois teste dois teste dois #2</description>
+  </item>
+</channel>
+
+</rss>
