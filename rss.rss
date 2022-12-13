@@ -7,14 +7,17 @@
   <description>Free web building tutorials</description>
   <item>
     <title>Calendário da semana TEST1</title>
+    <description>1</description>
     <pubDate>2022-12-13-11:00</pubDate>
   </item>
   <item>
     <title>Calendário do mês TEST2</title>
+    <description>2</description>
     <pubDate>2022-12-13-10:00</pubDate>
   </item>
   <item>
     <title>Calendário do trimestre TEST3</title>
+    <description>3</description>
     <pubDate>2022-12-13-9:00</pubDate>
   </item>
 </channel>
