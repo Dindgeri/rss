@@ -2,22 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test</title>
-    <description>testing</description>
+    <description>News Feed</description>
     <copyright>Copyright © CCC 2022</copyright>
     <ttl>60</ttl>
-    <lastBuildDate>Tue, 13 Dec 2022 12:27:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Dec 2022 14:12:30 GMT</lastBuildDate>
+    <item>
+      <title></title>
+      <description>(a link preview)</description>
+      <link>https://t.me/Interpoldefinew/98378</link>
+      <guid isPermaLink="false">e7b5e605e6d142ea8ef01be289e3e992</guid>
+      <pubDate>Tue, 13 Dec 2022 14:12:24 GMT</pubDate>
+    </item>
     <item>
       <title>Test Two</title>
-      <description>2</description>
-      <link>https://apple.com</link>
-      <guid isPermaLink="false">7f22dfb7635147ba91d8096537e45edc</guid>
-      <pubDate>Tue, 13 Dec 2022 12:27:24 GMT</pubDate>
+      <description></description>
+      <link>https://ipod.com</link>
+      <guid isPermaLink="false">0837e0fdea56467486aa61dfa2527100</guid>
+      <pubDate>Tue, 13 Dec 2022 14:11:29 GMT</pubDate>
     </item>
     <item>
       <title>Test</title>
-      <description>Testing!!</description>
-      <guid isPermaLink="false">6b4f5ce843484c698dd7ba0eff5cb56e</guid>
-      <pubDate>Tue, 13 Dec 2022 12:19:59 GMT</pubDate>
+      <description></description>
+      <link>https://t.me/Interpoldefinew/98378</link>
+      <guid isPermaLink="false">f41588dc99fb4f9595dffb45dcd91cb0</guid>
+      <pubDate>Tue, 13 Dec 2022 14:11:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
