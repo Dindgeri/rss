@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test</title>
+    <description>testing</description>
+    <copyright>Copyright © CCC 2022</copyright>
+    <ttl>60</ttl>
+    <lastBuildDate>Tue, 13 Dec 2022 12:24:43 GMT</lastBuildDate>
+    <item>
+      <title>Test</title>
+      <description>Testing!!</description>
+      <guid isPermaLink="false">c8fcdb7ad91c47aeba7f9e3718857fd5</guid>
+      <pubDate>Tue, 13 Dec 2022 12:19:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
